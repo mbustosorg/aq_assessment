@@ -1,0 +1,12 @@
+[MESSAGES CONTROL]
+disable=logging-fstring-interpolation,too-many-arguments,trailing-whitespace,too-many-instance-attributes
+
+[BASIC]
+good-names=df,x,y,X,Y,s3,ax,fig,i
+
+[FORMAT]
+max-line-length=250
+
+[SIMILARITIES]
+min-similarity-lines=8
+ignore-imports=yes

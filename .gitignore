@@ -1,0 +1,12 @@
+*.pyc
+venv/
+.idea/
+*~
+.pytest_cache/
+.eggs/
+*.egg-info/
+dist/
+test-reports/
+.coverage
+notebooks/
+.ipynb_checkpoints/
